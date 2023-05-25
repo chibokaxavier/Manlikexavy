@@ -18,8 +18,4 @@ I am Chiboka Emmanuel Chinemezu (Xavier), a Software Engineer. I am a FrontEnd d
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Manlikexavy&count_private=true&show_icons=true&include_all_commits=true)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Manlikexavy&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manlikexavy&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Manlikexavy.Manlikexavy)
