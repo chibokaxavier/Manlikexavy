@@ -2,8 +2,8 @@
 
 I am Chiboka Emmanuel Chinemezu (Xavier), a Software Engineer. I am a FrontEnd developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chiboka-emmanuel-09b356234/)](https://www.linkedin.com/in/chiboka-emmanuel-09b356234/)
-[![Gmail Badge](https://img.shields.io/badge/-mdraanik12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chibokaxavier@gmail.com)](mailto:chibokaxavier@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Manlikexavy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chiboka-emmanuel-09b356234/)](https://www.linkedin.com/in/chiboka-emmanuel-09b356234/)
+[![Gmail Badge](https://img.shields.io/badge/-chibokaxavier@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chibokaxavier@gmail.com)](mailto:chibokaxavier@gmail.com)
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
